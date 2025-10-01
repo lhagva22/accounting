@@ -17,6 +17,8 @@ export default function LoginPage() {
       <View style={styles.button}>
         <Text style={styles.text}>Box 3</Text>
       </View>
+      
     </View>
+    // aaa
   );
 }
